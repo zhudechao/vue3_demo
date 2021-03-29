@@ -1,2 +1,9 @@
 # vue3_demo
-vue3 示例代码
+#### 安装
+
+npm install
+
+#### 运行
+
+npm run dev
+
