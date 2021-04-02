@@ -23,6 +23,9 @@
                 },{
                     title: 'Table',
                     url: "#/Table"
+                },{
+                    title: 'Form',
+                    url: "#/Form"
                 }]
             }
         }

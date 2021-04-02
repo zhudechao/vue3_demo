@@ -2,6 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from "../components/Home";
 import Layout from "../components/Layout";
 import Table from "../components/Table";
+import Form from "../components/Form";
 
 const routes = [
     {
@@ -15,6 +16,10 @@ const routes = [
     {
         path: '/Table',
         component: Table
+    },
+    {
+        path: '/Form',
+        component: Form
     }
 ]
 
